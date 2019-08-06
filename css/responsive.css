@@ -1,0 +1,16 @@
+@media (max-width:1000px) {
+
+}
+
+
+}
+
+@media (max-width:670px){
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+}
+
+/*タブレット向けのレイアウトと
+スマホ向けのレイアウトが上手くいきません
